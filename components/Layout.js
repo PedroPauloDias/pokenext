@@ -1,5 +1,6 @@
-import Footer from "./Footer";
-import Navbar from "./navbar";
+import Footer from "../components/Footer";
+import Navbar from "../components/Navbar"
+
 
 import Head from 'next/head'
 
